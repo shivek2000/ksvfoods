@@ -551,7 +551,7 @@ img.zoom-img:hover{
 .w3l-welcome-text p {
     font-size: .9em;
     margin: 2em 0 0 0;
-    color: #999999;
+    color: #000000;
     line-height: 1.8em;
     text-align: center;
 }
@@ -569,7 +569,7 @@ img.zoom-img:hover{
     margin:1em 0 0 0;
 }
 .w3-about-left p {
-    color: #999999;
+    color: #f36f0a;
     font-size: .9em;
     line-height: 1.8em;
     margin: 1em 0 0 0;
@@ -1037,7 +1037,7 @@ i.fa.fa-quote-right {
 .address-grid ul li{
     display: block;
     color: #8c8c8c;
-    font-size: .9em;
+    font-size: 25px;
     margin-bottom: 1.5em;
 }
 .address-grid ul li a{
